@@ -2,4 +2,6 @@
     <string name="app_name">TastyServer</string>
     <string name="app_slogan">Tasty Application Server Side</string>
     <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone number</string>
 </resources>
